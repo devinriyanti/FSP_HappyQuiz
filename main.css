@@ -1,0 +1,73 @@
+.container{
+	padding: 10px;
+	font-family: cursive;
+}
+.child{
+	width: 50%;
+	height: 50%;
+	background: #EDBB99;
+	margin: auto;
+	border-radius: 20px;
+	box-shadow: 5px 5px 10px grey;
+}
+.content{
+	padding: 5px;
+	margin: 10px;
+}
+.button{
+	margin: auto;
+	width: 50%;
+	height: 40px;
+	font-size: 20px;
+	background: #E74C3C;
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px grey;
+}
+.bos{
+	margin: auto;
+	width: 70%;
+	height: 170px;
+	border-radius: 10px;
+	background-color: #EBDEF0;
+	box-shadow: 5px 5px 10px grey;
+}
+.anggota{
+	margin: auto;
+	width: 90%;
+	font-family: cursive;
+	font-size: 20px;
+}
+.btn{
+	background-color: transparent;
+	width: 100%;
+	height: 100%;
+	border: none;
+	font-size: 16px;
+	font-family: cursive;
+	font-weight: bold;
+}
+p{
+	text-align: center;
+	color: #2E4053;
+}
+h1,h2,h3{
+	font-family: cursive;
+	font-weight: bold;
+	color: #2E4053;
+	line-height: 30px;
+}
+h1,h2{
+	text-align: center;
+}
+body{
+	background-color: #E9F7EF ;
+}
+input{
+	color: #2E4053;
+}
+.text-hijau{
+	color: green;
+}
+.text-merah{
+	color: red;
+}
